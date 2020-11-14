@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 com/dungeonmasters/gym/demo/GymappApplication.class
+=======
+com/dungeonmasters/gym/demo/EmployeeRepository.class
+com/dungeonmasters/gym/demo/DatabaseLoader.class
+com/dungeonmasters/gym/demo/Employee.class
+com/dungeonmasters/gym/demo/ReactAndSpringDataRestApplication.class
+>>>>>>> 298d2a41bdf32ebc2c0986be330b1bb53e9a3f11

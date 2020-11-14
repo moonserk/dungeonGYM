@@ -8,7 +8,15 @@
 # "License"); you may not use this file except in compliance
 # with the License.  You may obtain a copy of the License at
 #
+<<<<<<< HEAD
 #    http://www.apache.org/licenses/LICENSE-2.0
+=======
+<<<<<<< HEAD
+#    https://www.apache.org/licenses/LICENSE-2.0
+=======
+#    http://www.apache.org/licenses/LICENSE-2.0
+>>>>>>> add some shit
+>>>>>>> 298d2a41bdf32ebc2c0986be330b1bb53e9a3f11
 #
 # Unless required by applicable law or agreed to in writing,
 # software distributed under the License is distributed on an
